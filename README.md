@@ -45,8 +45,8 @@
 
 ##  Notable Projects
 
-[![AeroSpaceHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=AeroSpaceHacking&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/AeroSpaceHacking)
-[![SatelliteHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=SatelliteHacking-workshop&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/SatelliteHacking-Workshop )
+[![AeroSpaceHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=AeroSpacehacking&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/AeroSpaceHacking)
+[![SatelliteHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=SatelliteHacking-Workshop&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/SatelliteHacking-Workshop )
 [![FaizanSAT](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=FaizanSAT&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/faizansat)
 [![OSCP Guide](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=OSCP&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/OSCP)
 
