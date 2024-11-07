@@ -2,6 +2,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+faizan+khan!;" />
+
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Developer+and+Cyber+Security+expert)](https://git.io/typing-svg)
 </h1>
 
  <hr/>
@@ -48,7 +50,7 @@
 <!-- Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=faizan-khanx&icon=10&color=6)](https://visitcount.itsvg.in)
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=faizan-khanx.faizan-khanx" />
 </div>
 <hr/>
 
