@@ -36,7 +36,20 @@
 </div>
 
 <br/><br/>
+ 
+  <!-- Socials -->
+<div align="center">
+    
+## 🌐 Connect with Me 🍬
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EthicalFaizan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EthicalFaizan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EthicalFaizan)
 
+</div>
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=faizan-khanx&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 <hr/>
 
 <br/>
