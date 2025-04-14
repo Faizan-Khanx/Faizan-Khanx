@@ -47,16 +47,15 @@
 
 [![AeroSpaceHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=AeroSpacehacking&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/AeroSpaceHacking)
 [![SatelliteHacking](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=SatelliteHacking-Workshop&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/SatelliteHacking-Workshop )
-[![FaizanSAT](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=FaizanSAT&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/faizansat)
-[![OSCP Guide](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=OSCP&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/OSCP)
-
+[![TracingDarkWebAndBlockChain](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=TracingDarkWebAndBlockChain&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/faizansat)
+[![TelegramOSINT](https://github-readme-stats.vercel.app/api/pin/?username=faizan-khanx&repo=TelegramOSINT&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/faizan-khanx/OSCP)
 
 
   <!-- Socials -->
 <div align="center">
     
 ## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EthicalFaizan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EthicalFaizan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EthicalFaizan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EthicalFaizann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EthicalFaizan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EthicalFaizan)
 
 </div>
 
