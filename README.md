@@ -21,7 +21,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/faizan-khanx/faizan-khanx/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Faizan-Khanx/Faizan-Khanx/blob/main/advanced.gif" alt="Snake animation" />
 
   <br/>
 </div>
